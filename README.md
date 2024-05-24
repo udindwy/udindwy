@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I'm Udin Dwi Wahyudi 👨‍💻
 
-<!--
-**udindwy/udindwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about crafting delightful user experiences and diving into the world of frontend development.
 
-Here are some ideas to get you started:
+👀 About Me
+- 🎨 UI/UX & Frontend Enthusiast
+- 🌐 Information Systems Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm Currently Learning
+- React.js
+- UI/UX Design Principles
+- Frontend Development Best Practices
+
+💼 Skills
+- HTML, CSS, JavaScript
+- React, Bootstrap
+- Canva, Figma
+
+💞️ I'm Looking to Collaborate On
+- Open source projects
+- Web development projects
+
+📫 How to Reach Me
+- Email: [My Email](udindwiwahyudi04@gmail.com)
+- LinkedIn: [My Linkedln](https://www.linkedin.com/in/udindwiwahyudi/)
+
+😄 Pronouns
+- He/Him
+
+⚡ Fun Fact
+- "I enjoy creating interactive prototypes and experimenting with new UI trends!"

@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about crafting delightful user expe
 - Web development projects
 
 ### 📫 How to Reach Me
-- Email: [My Email](mailto:udindwiwahyudi04@gmail.com)
+- Email: [My Email](gmailto:udindwiwahyudi04@gmail.com)
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/udindwy)
 
 ### 😄 Pronouns

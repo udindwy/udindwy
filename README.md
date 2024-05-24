@@ -7,13 +7,11 @@ Welcome to my GitHub profile! I'm passionate about crafting delightful user expe
 - 🌐 Information Systems Student
 
 ### 🌱 I'm Currently Learning
-- React.js
 - UI/UX Design Principles
 - Frontend Development Best Practices
 
 ### 💼 Skills
 - HTML, CSS, JavaScript
-- React, Bootstrap
 - Canva, Figma
 
 ### 💞️ I'm Looking to Collaborate On

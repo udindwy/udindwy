@@ -1,31 +1,31 @@
-👋 Hi there, I'm Udin Dwi Wahyudi 👨‍💻
+👋 Hi there, I'm Udin Dwi Wahyudi! 👨‍💻
 
 Welcome to my GitHub profile! I'm passionate about crafting delightful user experiences and diving into the world of frontend development.
 
-👀 About Me
+### 👀 About Me
 - 🎨 UI/UX & Frontend Enthusiast
 - 🌐 Information Systems Student
 
-🌱 I'm Currently Learning
+### 🌱 I'm Currently Learning
 - React.js
 - UI/UX Design Principles
 - Frontend Development Best Practices
 
-💼 Skills
+### 💼 Skills
 - HTML, CSS, JavaScript
 - React, Bootstrap
 - Canva, Figma
 
-💞️ I'm Looking to Collaborate On
+### 💞️ I'm Looking to Collaborate On
 - Open source projects
 - Web development projects
 
-📫 How to Reach Me
-- Email: [My Email](udindwiwahyudi04@gmail.com)
-- LinkedIn: [My Linkedln](https://www.linkedin.com/in/udindwiwahyudi/)
+### 📫 How to Reach Me
+- Email: [My Email](mailto:udindwiwahyudi04@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/udindwiwahyudi/)
 
-😄 Pronouns
+### 😄 Pronouns
 - He/Him
 
-⚡ Fun Fact
+### ⚡ Fun Fact
 - "I enjoy creating interactive prototypes and experimenting with new UI trends!"

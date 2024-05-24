@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about crafting delightful user expe
 
 ### 📫 How to Reach Me
 - Email: [My Email](mailto:udindwiwahyudi04@gmail.com)
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/udindwy)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/udindwy)
 
 ### 😄 Pronouns
 - He/Him

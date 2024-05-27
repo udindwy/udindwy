@@ -23,8 +23,5 @@
 - Email: [My Email](mailto:udindwiwahyudi04@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/udindwy)
 
-### 😄 Pronouns
-- He/Him
-
 ### ⚡ Fun Fact
 - "I enjoy creating interactive prototypes and experimenting with new UI trends!"

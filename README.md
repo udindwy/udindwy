@@ -1,6 +1,7 @@
-👋 Hi there, I'm Udin Dwi Wahyudi! 👨‍💻
-
-Welcome to my GitHub profile! I'm passionate about crafting delightful user experiences and diving into the world of frontend development.
+<div align="center">
+  <p>👋 Hi there, I'm Udin Dwi Wahyudi! 👨‍💻</p>
+  <p>Welcome to my GitHub profile! I'm passionate about crafting delightful user experiences and diving into the world of frontend development.</p>
+</div>
 
 ### 👀 About Me
 - 🎨 UI/UX & Frontend Enthusiast

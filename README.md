@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about crafting delightful user expe
 
 ### 💼 Skills
 - HTML, CSS, JavaScript
-- Canva, Figma
+- UI/UX
 
 ### 💞️ I'm Looking to Collaborate On
 - Open source projects

@@ -14,7 +14,7 @@
 - Frontend Development Best Practices
 
 ### 💼 Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Git
 - UI/UX
 
 ### 💞️ Looking to Collaborate On

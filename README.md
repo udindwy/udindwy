@@ -24,7 +24,6 @@
 ### 📫 How to Reach Me
 - Email: [udindwiwahyudi04@gmail.com](mailto:udindwiwahyudi04@gmail.com)
 - LinkedIn: [Udin Dwi Wahyudi](https://www.linkedin.com/in/udindwy)
-- Instagram: [udindwy](https://www.instagram.com/udindwy?igsh=MWpuYXdraXU4bDJmaA==)
-
+  
 ### ⚡ Fun Fact
 - "I enjoy creating interactive prototypes and experimenting with new UI trends!"

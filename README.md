@@ -25,5 +25,3 @@
 - Email: [udindwiwahyudi04@gmail.com](mailto:udindwiwahyudi04@gmail.com)
 - LinkedIn: [Udin Dwi Wahyudi](https://www.linkedin.com/in/udindwy)
   
-### ⚡ Fun Fact
-- "I enjoy creating interactive prototypes and experimenting with new UI trends!"

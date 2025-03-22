@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Udin Dwi Wahyudi! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&width=900&lines=UI/UX+%26+Frontend+Enthusiast;Passionate+About+Crafting+Delightful+User+Experiences;Exploring+Frontend+Development;Driven+to+Create+Impactful+Designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&width=900&lines=UI/UX+%26+Web+Development+Enthusiast;Passionate+About+Crafting+Delightful+User+Experiences;Exploring+Web+Development;Driven+to+Create+Impactful+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 ---

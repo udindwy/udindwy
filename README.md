@@ -7,11 +7,13 @@
 ---
 
 ### 👨‍💻 About Me:
-- 💼 Currently building amazing stuff with **React** & **Laravel**.
-- 🎓 Working on creating delightful user experiences.
-- 🚀 Always exploring the latest in **frontend development** and **design**.
+- 👋 Hi, I’m Udin Dwi Wahyudi — a passionate **UI/UX and Web Development enthusiast**.
+- 📚 Currently learning and exploring **Laravel** to build better web applications.
+- 🎨 I enjoy designing clean, user-friendly interfaces and learning how to improve user experiences.
+- 💡 Always curious and eager to turn ideas into meaningful digital experiences.
 
 ---
+
 
 ### 🔧 Tech Stack:
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
